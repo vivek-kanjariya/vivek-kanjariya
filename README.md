@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend 
 - 📫 How to reach me Email : kanjariyavivek295@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i will add styling later to projects 
+- ⚡ Fun fact: NO fun bro
 
 <!---
 vivek-kanjariya/vivek-kanjariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
