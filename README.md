@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivek-kanjariya
-- 👀 I’m interested in web dev
+- 👀 I’m an Full stack web developer (MERN stack)
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on backend 
 - 📫 How to reach me Email : kanjariyavivek295@gmail.com
