@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @vivek-kanjariya
-- 👀 I’m an Full stack web developer (MERN stack)
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on backend 
-- 📫 How to reach me Email : kanjariyavivek295@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: NO fun bro
+👋 Hi, I’m @vivek-kanjariya  
+👀 I’m a Full Stack Web Developer specializing in the MERN stack.  
+🌱 I’m currently expanding my skills  
+💞️ I’m looking to collaborate on open-source projects or freelance opportunities.  
+📫 How to reach me?  
+- Email: kanjariyavivek295@gmail.com  
+😄 Pronouns: He/Him/Batman
+
 
 <!---
 vivek-kanjariya/vivek-kanjariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
